@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on developing innovative software solutions, particularly using Flutter and Python.<br><br>🤝 I’m looking to collaborate on open-source projects related to AI, web development, and mobile applications that leverage cutting-edge technologies.<br><br>👐 I’m looking for help with enhancing my skills in advanced machine learning techniques and large-scale application development.<br><br>🌱 I’m currently learning deep learning and cloud computing.<br><br>💬 Ask me about Flutter development and AI projects.
+👨‍💻 I’m currently working on developing innovative software solutions, particularly using Flutter and Python.<br><br>🤝 I’m looking to collaborate on open-source projects related to AI, computer visions, web development, and mobile applications that leverage cutting-edge technologies.<br><br>👐 I’m looking for help with enhancing my skills in advanced machine learning techniques and large-scale application development.<br><br>🌱 I’m currently learning deep learning and cloud computing.<br><br>💬 Ask me about Flutter development and AI projects.
 
 
 ## 🌐 Socials:
